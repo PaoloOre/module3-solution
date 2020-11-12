@@ -1,0 +1,47 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#header-nav{
+	background-color: #C6C6BB;
+	border-radius: 0;
+	border:0;
+}
+#headerFood{
+	font-size: 30px;
+}
+
+h1{
+	text-align:center;
+}
+#chicken{
+	text-align:center;
+	width: 100;
+	background-color: #C6C6BB;
+	font-size: 20px;
+	margin-right:2%;
+	margin-left:2%;
+}
+#cotent{
+	margin-top: 1%;
+	margin-right:2%;
+	margin-left:2%;
+	font-size: 15px;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #fff;
+  text-align: center;
+   font-size: 1.8em;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #fff;
+}
